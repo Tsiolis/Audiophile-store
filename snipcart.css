@@ -1,0 +1,24 @@
+.snipcart-layout{
+	height: auto;
+	}
+	
+
+.snipcart-button-primary{
+	border: 0;
+  background: var(--dark-orange);
+  color: var(--white);
+  font-weight: var(--bold);
+  font-size: 0.8125rem;
+  text-transform: uppercase;
+  padding: 1rem 2rem;
+}
+
+.snipcart-button-primary:active, .snipcart-button-primary:focus{
+	border: 0;
+  background: var(--dark-orange);
+  color: var(--white);
+  font-weight: var(--bold);
+  font-size: 0.8125rem;
+  text-transform: uppercase;
+  padding: 1rem 2rem;
+}
